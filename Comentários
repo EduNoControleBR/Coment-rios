@@ -4,6 +4,19 @@
     <meta charset="UTF-8" />
     <title>Comentários</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+        max-width: 600px;
+        margin: auto;
+        background-color: #f9f9f9;
+      }
+      h2 {
+        text-align: center;
+        color: #333;
+      }
+    </style>
   </head>
   <body>
     <h2>Deixe um comentário</h2>
